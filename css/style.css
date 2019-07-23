@@ -1,4 +1,4 @@
-@font-face {font-family: 'Comfortaa', sans-serif;src: url(fonts/Comfortaa.ttf);}
+@font-face {font-family: 'Comfortaa', cursive;}
 html{overflow-x: hidden;font-family: 'Raleway', sans-serif;}
 br{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
 .gradient1{background: #D31027;background: -webkit-linear-gradient(to left, #EA384D, #D31027);background: linear-gradient(to left, #EA384D, #D31027);}

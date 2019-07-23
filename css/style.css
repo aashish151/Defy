@@ -1,6 +1,5 @@
 @font-face {font-family: 'Comfortaa', sans-serif;src: url(fonts/Comfortaa.ttf);}
 html{overflow-x: hidden;font-family: 'Raleway', sans-serif;}
 br{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
-hr.style1{border-top: 1px solid #FFF;}
-.gradient1{background: #ED213A;background: -webkit-linear-gradient(to right, #ED213A, #ff2d2d);background: linear-gradient(to right, #ED213A, #ff2d2d);}
+.gradient1{background: #D31027;background: -webkit-linear-gradient(to left, #EA384D, #D31027);background: linear-gradient(to left, #EA384D, #D31027);}
 .gradient2{background: #232526;background: -webkit-linear-gradient(to left, #1F1C2C, #232526);background: linear-gradient(to left, #1F1C2C, #232526);}

@@ -2,3 +2,8 @@
 html{overflow-x: hidden;font-family: 'Raleway', sans-serif;}
 br{-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;-o-user-select: none;user-select: none;}
 hr.style1{border-top: 1px solid #FFF;}
+.gradient1 {
+  background: #ED213A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ED213A, #ff2d2d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ED213A, #ff2d2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
